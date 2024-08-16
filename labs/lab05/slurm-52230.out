@@ -1,0 +1,2 @@
+mpirun: Forwarding signal 18 to job
+slurmstepd-n0002: error: *** JOB 52230 ON n0002 CANCELLED AT 2023-09-22T18:25:03 ***

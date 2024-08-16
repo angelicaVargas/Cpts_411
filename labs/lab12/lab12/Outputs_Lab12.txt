@@ -1,0 +1,19 @@
+Number of threads: 2
+Output for dynamic: 0.001804 sec
+Output for static: 0.001088 sec
+
+Number of threads: 4
+Output for dynamic: 0.002141 sec
+Output for static: 0.001228 sec
+
+Number of threads: 45
+Output for dynamic: 0.002303 sec
+Output for static: 0.003573 sec
+
+Number of threads: 500
+Output for dynamic: 0.026561 sec
+Output for static: 0.026547 sec
+
+Number of threads: 1000
+Output for dynamic: 0.049136 sec
+Output for static: 0.051423 sec
