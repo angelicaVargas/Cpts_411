@@ -1,0 +1,6 @@
+my rank=0
+Rank=0: number of processes = 2
+my rank=1
+Rank=1: number of processes = 2
+Rank=1: sent message 10 to rank 0; Send time 0.000000 millisec
+Rank = 0: received message 10 from rank 1; Recv time 0.000000 millisec
